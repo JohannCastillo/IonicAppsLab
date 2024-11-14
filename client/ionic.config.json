@@ -1,7 +1,0 @@
-{
-  "name": "sistventas",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
